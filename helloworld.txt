@@ -1,2 +1,3 @@
 //添加头文件
 #include <stdio.h>
+#include <string>
